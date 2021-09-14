@@ -1,4 +1,4 @@
 ## this is new file 
-1. i love coding
-2. i love Mansaf
-3. i hope you pass exam
+1. Coding is a passion
+2. creating lists
+3. You will pass
